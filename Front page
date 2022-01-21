@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html id="home">
+
+  <head>
+    
+    <title>NFT</title>
+    <meta charset="utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	  <!-- link the webpage's stylesheet -->
+	  <link rel="stylesheet" href="/style.css" />
+
+	  <!-- link the webpage's JavaScript file -->
+	  <script src="/script.js" defer></script>
+
+  </head>
+  
+  <header>
+    <div class="logo">
+      <a href="index.html">CFC</a>
+    </div>
+    
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="help.html">Explore</a></li>
+        <li><a href="learn more.html">sell</a></li>
+        <li><a href="sell.html">cart</a></li>
+        <li><a href="create.html">create</a></li>
+        
+      </ul>
+    </nav>
+    
+
+  </header>  
+  <body>
+    
+    <div id="bannerH">
+      <h2> CFC Corporations </h2>
+    </div>
